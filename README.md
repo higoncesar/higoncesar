@@ -8,7 +8,7 @@ My name is Higon Cesar and I'm a software developer. I'm from Brazil 🇧🇷\
 
 - 💼 FrontEnd Engineer at [Maxtrack](https://maxtrack.com.br/)
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
-- 😁 Besides programming I enjoy games, movie and cook
+- 😁 Besides programming I enjoy games, movies and cook
 - 💬 Ask me about anything [here](https://github.com/higoncesar/higoncesar/issues)
 
 **Languages and Tools:**  
